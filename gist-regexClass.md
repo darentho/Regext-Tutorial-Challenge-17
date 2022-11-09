@@ -77,6 +77,6 @@ The \ is known as the escape code, which restore the original literal meaning of
 
 Alberto Monroy is a Tech de Monterrey Bootcamp Student aspiring to be a Full-Stack web developer. His current place of residence is Mexico City.
 
-image.png[Alberto’s Github](https://github.com/darentho)
-image.png[Alberto's Linkedin](https://www.linkedin.com/in/alberto-monroy-b734a8150/)
-📩[Alberto's Email](mailto:firewind3882@gmail.com)
+- [Alberto’s Github](https://github.com/darentho)
+- [Alberto's Linkedin](https://www.linkedin.com/in/alberto-monroy-b734a8150/)
+- 📩[Alberto's Email](mailto:firewind3882@gmail.com)
